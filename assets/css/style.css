@@ -165,7 +165,8 @@ color:#fff;
 .topcontrol {
 background: #ff3636 none repeat scroll 0 0;
 border-radius: 30px;
-bottom: 5px;
+bottom: 16px !important;
+    right: 100px !important;
 box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.2);
 color: #fff;
 cursor: pointer;
